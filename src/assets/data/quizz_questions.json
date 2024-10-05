@@ -1,0 +1,80 @@
+{
+  "title":"Você iria bater o pênalti ou ajudar na briga? ⚽",
+  "questions":[
+    {
+      "id":1,
+      "question": "Como você reage quando está prestes a ganhar o jogo?",
+      "options":[
+        {"id": 1, "name":"Foco total! Estou pronto para bater o pênalti e ser o herói.", "alias":"B"},
+        {"id": 2, "name":"Vou provocar a defesa adversária e ver se alguém cai na provocação.", "alias":"A"},
+        {"id": 3, "name":"Começo a discutir com o zagueiro rival para tirá-lo do sério.", "alias":"A"},
+        {"id": 4, "name":"Faço uma oração e me preparo para fazer a jogada.", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O juiz apitou um lance polêmico contra seu time. O que você faz?",
+      "options":[
+        {"id": 1, "name":"Vou até o juiz e falo com confiança, fazendo meu ponto. ", "alias":"A"},
+        {"id": 2, "name":"Mantenho a calma e sigo em frente; o importante é ganhar.", "alias":"B"},
+        {"id": 3, "name":"Reúno os colegas para protestar juntos. ", "alias":"A"},
+        {"id": 4, "name":"Fico concentrado, sem deixar isso me afetar.", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Seu time está precisando de um gol no último minuto. O que você faz?",
+      "options":[
+        {"id": 1, "name":"Me coloco na posição certa para cobrar o pênalti e garantir a vitória. ", "alias":"B"},
+        {"id": 2, "name":"Faço pressão nos defensores adversários, tentando causar uma confusão.", "alias":"A"},
+        {"id": 3, "name":"Grito com os companheiros para que fiquem alertas e provoquem os adversários.", "alias":"A"},
+        {"id": 4, "name":"Peço a bola e tento um chute de longe, mostrando que estou preparado.", "alias":"B"}
+       
+      ]
+    },
+    {
+      "id":4,
+      "question": "Como você lida com as provocações do time adversário?",
+      "options":[
+        {"id": 1, "name":"Respondo na hora, dando um troco na mesma moeda!", "alias":"A"},
+        {"id": 2, "name":"Ignoro e mantenho o foco; o jogo é o que importa.", "alias":"B"},
+        {"id": 3, "name":"Sorrio e sigo jogando, mostrando que não me deixo afetar.", "alias":"B"},
+        {"id": 4, "name":"Faço uma piada para descontrair e deixá-los irritados.", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "No vestiário, como você se comporta antes de uma final importante?",
+      "options":[
+        {"id": 1, "name":"Concentração total! Faço um discurso motivacional para a equipe.", "alias":"B"},
+        {"id": 2, "name":"Já começo a criar uma estratégia para intimidar o rival", "alias":"A"},
+        {"id": 2, "name":"Coloco uma música animada para levantar o espírito da equipe.", "alias":"B"},
+        {"id": 2, "name":"Fico contando histórias engraçadas para aliviar a tensão e provocar risadas.", "alias":"A"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Como você comemoraria o gol decisivo da vitória?",
+      "options":[
+        {"id": 1, "name":"Com um grito de alegria e uma dancinha no campo.", "alias":"B"},
+        {"id": 2, "name":"Correndo até a torcida rival e provocando.", "alias":"A"},
+        {"id": 1, "name":"Levanto os braços para o céu e agradeço pelo gol.", "alias":"B"},
+        {"id": 2, "name":"Faço um gesto provocativo para os jogadores adversários.", "alias":"A"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Se você pudesse escolher uma jogada icônica para fazer, qual seria?",
+      "options":[
+        {"id": 1, "name":"Uma famosa cobrança de pênalti que decidiu uma final.", "alias":"B"},
+        {"id": 2, "name":"Uma briga que aconteceu entre os jogadores, defendendo um colega.", "alias":"A"},
+        {"id": 2, "name":"Um gol de bicicleta que deixou todo mundo impressionado.", "alias":"B"},
+        {"id": 2, "name":"Um momento em que um jogador fez uma entrada violenta para intimidar.", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Entre brigar e bater o pênalti, você prefereriria AJUDAR NA BRIGA! Sua presença em campo é marcada por sua paixão e garra. Você não tem medo de entrar na disputa e proteger seus companheiros, e isso mostra que você valoriza a união da equipe acima de tudo. Seu espírito combativo e sua habilidade de instigar os adversários fazem de você um jogador temido e respeitado. Continue mostrando sua força, porque a bravura também é uma forma de vencer!",
+    "B": "Você muito provavelmente BATERIA O PÊNALTI! Quando a pressão aumenta e a partida está em jogo, você se destaca como o jogador que assume a responsabilidade. Para você, cada penalidade é uma oportunidade de brilhar e levar seu time à vitória. Sua determinação e foco são inspiradores, e sua habilidade de se manter calmo em momentos críticos é o que faz de você um verdadeiro campeão. Continue assim, porque você é aquele que faz a diferença!"
+  }
+}
